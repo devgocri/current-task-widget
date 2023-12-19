@@ -8,7 +8,7 @@ const containerClassName = css({
   fontSize: "25px",
   textAlign: "center",
   width: "100vw",
-  height: "100vh",
+  height: "calc(100vh - 13px)",
   position: "absolute",
   display: "flex",
   justifyContent: "center",
