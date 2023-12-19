@@ -5,7 +5,7 @@ export const refreshFrequency = 5000;
 const containerClassName = css({
   color: "rgba(255, 255, 255)",
   fontFamily: "Hack Nerd Font Mono",
-  fontSize: "25px",
+  fontSize: "16px",
   textAlign: "center",
   width: "100vw",
   height: "calc(100vh - 13px)",
